@@ -18,7 +18,7 @@ function parseNode (node) {
           if (/^\s+$/.test(elem)) {
             return null;
           }
-          return formats.text(elem);
+          return formats.text(elem.trim());
         }
         return parseNode(elem);
       }).reduce(concatArrays, []);
