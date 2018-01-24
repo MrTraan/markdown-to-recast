@@ -5,6 +5,6 @@
   "author": "Nathan Grasset <nathan@recast.ai>",
   "license": "MIT",
   "dependencies": {
-    "markdown": "^0.5.0"
+    "markdown": "0.5.0"
   }
 }
