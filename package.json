@@ -1,5 +1,5 @@
 {
-  "name": "recast-markdown",
+  "name": "md-recast",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Nathan Grasset <nathan@recast.ai>",
